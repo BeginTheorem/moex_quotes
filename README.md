@@ -1,5 +1,5 @@
 # MOEX Quotes
-A simple Python script to receive quotation lists of the Moscow Exchange.
+A simple Python script for obtaining quotation lists of the Moscow Exchange and the quotes themselves.
 ## Dependencies:
 Internet connection and `pandas`.
 ## How to use:
