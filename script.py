@@ -1,5 +1,4 @@
-import requests, os, sys, datetime
-import pandas as pd
+import requests, pandas as pd
 url = "https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities.json"
 params = {"securities.columns": "SECID,SECNAME,ISIN,SECTYPE,LISTLEVEL",
     "marketdata.columns": "SECID,BID,OFFER"}
